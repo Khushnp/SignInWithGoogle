@@ -1,0 +1,20 @@
+﻿@page
+@model MyCoreApp.Pages.RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h1>Register</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="Username" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="Password" class="form-control" />
+    </div>
+    <!-- Add more fields as needed for registration (e.g., email, name, etc.) -->
+    <button type="submit" class="btn btn-primary">Register</button>
+</form>
