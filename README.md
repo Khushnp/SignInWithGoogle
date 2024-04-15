@@ -1,6 +1,7 @@
 # MyCoreApp
 
-MyCoreApp is a simple web application built using HTML, CSS, ASP .NET Core, and C#. Its primary functionality includes a basic login system with the added feature of allowing users to login using their Google accounts.
+MyCoreApp is a simple web application built using HTML, CSS, ASP .NET Core, and C#. Its primary functionality includes a basic login system with the added feature of allowing users to login using their Google accounts. also for more info Visit https://www.c-sharpcorner.com/article/integrating-google-sign-in-into-your-web-app/ as this will provide additional information that how the 
+SingInWithGoogle funcitonality be made and used as basically we are calling Google Apis.
 
 ## Features
 - Login functionality
